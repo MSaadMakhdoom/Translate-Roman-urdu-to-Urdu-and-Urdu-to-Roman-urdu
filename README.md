@@ -1,4 +1,4 @@
-# Transliteration-Roman-Urdu---Urdu
+# Transliteration Script Python -Roman urdu to Urdu & Urdu to Roman urdu
 Roman Urdu is the name used for the Urdu language written with the Latin script, also known as the Roman
 script. The Urdu language is written in a different style as compared to English, making typing a challenging
 task, and hence the popularity of Roman Urdu.
@@ -23,17 +23,10 @@ orthography and the spelling system.
 
 
 Challenges in transliteration involve determining longer textual processing units consisting of more than
-one character. This task involves identifying grapheme boundaries within different words. Following is an
-example of Roman Urdu to Urdu transliteration:
-Maafi say baarh kay abb raha kiya hay?
+one character. This task involves identifying grapheme boundaries within different words. 
+# Roman Urdu to Urdu transliteration:
+- Maafi say baarh kay abb raha kiya hay?
 
-معافی سے بڑھ کے اب رہا کیا ہے؟
-
-You have to develop technique that will perform transliteration that is readable.
+- معافی سے بڑھ کے اب رہا کیا ہے؟
 
 
-Implementation Challenges
-You need to make several decisions in implementing your tranliteration techniqiue:
-1. How can you detect character-level patterns in text?
-2. How simple and elegant is your solution?
-3. How can you evaluate your approach?
